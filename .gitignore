@@ -29,4 +29,5 @@ images/test_images_kr_df/
 .DS_Store
 Thumbs.db
 
-# 4) Utile Function
+# 4) Yolov5
+yolov5/
