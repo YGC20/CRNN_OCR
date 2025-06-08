@@ -11,8 +11,6 @@ __pycache__/
 
 # 2) Data & Model
 *.zip
-*.pth
-*.pt
 *.h5
 *.ckpt
 *.onnx
