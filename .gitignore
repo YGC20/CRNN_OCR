@@ -14,6 +14,7 @@ __pycache__/
 *.h5
 *.ckpt
 *.onnx
+bestModel/history/
 data/
 ocr/checkpoints/
 ocr/train_logs/

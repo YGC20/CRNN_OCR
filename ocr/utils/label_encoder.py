@@ -45,7 +45,7 @@ class LabelEncoder:
         for idx in indices:
             if idx != self.blank_idx and idx != prev_idx:
                 decoded.append(self.idx_to_char.get(idx, ''))
-            prev_idx = idx
+                prev_idx = idx
         return ''.join(decoded)
     
     def decode_keep_repeats(self, indices):
